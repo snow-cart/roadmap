@@ -3,7 +3,7 @@
 
 - cool private project\n
 - bonk.lt:
- - finish tailwind branch
+  - finish tailwind branch
 
 
 ## Random:
