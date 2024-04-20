@@ -1,9 +1,9 @@
 # Mykole's roadmap
 ## Real:
 
-cool private project\n
-bonk.lt:
-- finish tailwind branch
+- cool private project\n
+- bonk.lt:
+ - finish tailwind branch
 
 
 ## Random:
